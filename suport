@@ -1,0 +1,91 @@
+    1  git config --global usser.name mor-talla-kebe
+    2  git config --global usser.email kebem2446@gmail.com
+    3  git init
+    4  ls -la
+    5  touch index.html
+    6  ls
+    7  touch style.css
+    8  git status
+    9  git add .
+   10  git status
+   11  git commit -m
+   12  git commit -m "Initialisation du projet et création des fichiers index.html et style.css"
+   13  git status
+   14  git add .
+   15  git status
+   16  touch script.js
+   17  git add script.js
+   18  git status
+   19  git rm --cached script.js
+   20  git status
+   21  touch .gitignor
+   22  git status
+   23  git add .
+   24  git status
+   25  git rm --cached script.js .gitignor
+   26  git status
+   27  git branch
+   28  git branch test
+   29  git branch test
+   30  git branch MonTest
+   31  git branch
+   32  git init
+   33  git branch
+   34  touch index.js
+   35  ls
+   36  git branch
+   37  git add commit
+   38  git add commit index.js
+   39  git commit -m "Initialisation du projet et création des fichiers index.html et style.css"
+   40  touch test.txt
+   41  git add test.txt
+   42  git commit "je vient de créer un fichier .txt"
+   43  git commit -m "je vient de créer un fichier .txt"
+   44  git branch
+   45  touch text.txt
+   46  git add .
+   47  git commit -m "moi"
+   48  git branch
+   49  git config --global user.name
+   50  git config --global user.email
+   51  git config --global user.email kebem2446@gmail.com
+   52  git branch
+   53  git status
+   54  git commit -m "First commit"
+   55  git branch
+   56  git branch MonTest
+   57* 
+   58  git branch
+   59  git checkout MonTest
+   60  git branch
+   61  git branch master
+   62  git checkout master
+   63  git branch
+   64* git checkout -b te
+   65  git branch
+   66  ls
+   67  git status
+   68  git status
+   69  git add .
+   70  git commit -m "nous avons modifier notre fichier html"
+   71  git checkout master
+   72  git checkout test1
+   73  git merge test1
+   74  git add .
+   75  git status
+   76  git commit -m "ajout d'un paragraphe sur lz fichier index.html
+git commit -m "ajout d'un paragraphe sur lz fichier index.html"
+git commit -m "ajout d'un paragraphe sur lz fichier index.html
+   77  git commit -m "ajout d\'un paragraphe sur lz fichier index.html"
+   78  git commit -m "une autre modification"
+   79  git checkout master
+   80  git merge test1 
+   81  git branch -d test1
+   82  git branch
+   83  git checkout MonTest
+   84  git merge master
+   85  git checkout master
+   86  git checkout MonTest
+   87  history
+   88  touch suport
+   89  history > suport
